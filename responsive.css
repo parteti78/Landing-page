@@ -1,0 +1,210 @@
+@media only screen and (min-width:320px) and (max-width:425px) {
+
+   
+
+    #navbar{
+
+        padding-top: 30px;
+        padding-left: 13px;
+        padding-right: 0px;
+    }
+
+
+    #motion h1{
+        font-size: 1.4rem;   
+        font-weight: 900;      
+        width: 110px;
+    }
+    #nav-part-2{
+
+        padding-right: 0px;      
+        padding-right: 0px;
+        margin-left: -20px;
+        justify-content: center;
+        align-items: center;
+        
+    }
+   
+    #nav-part-2 ol{
+        
+        gap: 5px;
+       
+       
+    }
+
+    #nav-part-2 ol li{
+
+        font-size: 0.7rem;
+        width: 100px;
+        padding-top: 20px;
+       
+    }
+    
+    #menuss{
+        font-size: 2rem;
+        margin-top: -10px;
+        
+        
+    }
+
+    #cover-img{
+
+       
+        height: 40%;
+        width: 85%;
+        background-position: center;
+        border-radius: 5px;
+        margin-left: 10px;
+        
+        
+    
+    }
+    #main-contaner{       
+        height: 87%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        position: relative;
+      
+    }
+    #cover-img{
+
+        
+        height: 50%;
+        width: 85%;
+      background-size: cover;
+        border-radius: 5px;
+        margin-top: -100px;
+        margin-left: 10px;
+        
+    
+    }
+   
+
+
+    #text-contain{
+
+        position: absolute;
+        top: 70%;
+        left: 15%;
+        opacity: 1;
+        text-align: center;
+    }
+    #text-contain h1{
+        width: 240px;
+        line-height: 40px;
+        font-size: 2rem;
+        font-weight: 400;
+    }
+    
+
+   
+
+   
+}
+
+@media only screen and (min-width:100px)and (max-width:320px){
+
+    #navbar{
+
+       padding-top: 30px;
+    
+    }
+    #motion h1{
+        font-size: 1.2rem;   
+        font-weight: 900;      
+        width: 60px;
+    }
+    #nav-part-2 ol li{
+
+        font-size: 0.6rem;
+        width: 90px;
+        padding-top: 20px;
+        height: 30px;
+       
+    }
+    #nav-part-2 ol{
+        
+        gap: 1px;
+        margin-left: 19px;
+       
+       
+    }
+    #menuss{
+        
+        margin-top: -9px;
+        
+        
+    }
+    #cover-img{
+
+        
+        height: 50%;
+        width: 85%;
+       background-size: cover;
+        border-radius: 5px;
+        margin-top: -150px;
+        margin-left: 10px;
+        
+    
+    }
+
+    #text-contain{
+
+        position: absolute;
+        top: 68%;
+        left: 15%;
+        opacity: 1;
+        text-align: center;
+    }
+    #text-contain h1{
+        width: 240px;
+        line-height: 40px;
+        font-size: 2rem;
+        font-weight: 400;
+    }
+    button{
+
+        width: 200px;
+    }
+    
+
+    
+
+}
+
+@media only screen and (min-width:425px)and (max-width:604px){
+
+
+    #navbar{
+
+        padding-top: 40px;
+     
+     }
+     #motion h1{
+        font-size: 1.4rem;   
+        font-weight: 900;      
+        width: 60px;
+    }
+    #nav-part-2 ol li{
+
+        font-size: 0.9rem;
+        width: 140px;
+        padding-top: 20px;
+        height: 30px;
+       
+    }
+    #nav-part-2 ol{
+        
+        gap: 4px;
+        margin-left: 40px;
+       
+       
+    }
+    #menuss{
+        
+        margin-top: -5px;
+        
+        
+    }
+}
